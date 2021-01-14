@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ### 👋Hi there
 ### :book:Profile
+Bachelor's degree 👨‍🎓 in Shandong University (SDU).  
 Master student 👨‍🎓 in Xiamen University (XMU).  
 Major in Artificial Intelligence (AI).  
 Working on Natural Language Processing (NLP).  
