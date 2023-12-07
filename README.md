@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 ### 👋Hi there
 ### :book:Profile
 Bachelor's degree 👨‍🎓 in Shandong University (SDU).  
-Master student 👨‍🎓 in Xiamen University (XMU).  
-Major in Artificial Intelligence (AI).  
-Working on Natural Language Processing (NLP).  
+Master's degree 👨‍🎓 in Xiamen University (XMU).  
  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=King-Hell&show_icons=true&count_private=true)
